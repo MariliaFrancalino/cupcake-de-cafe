@@ -1,0 +1,49 @@
+body {
+    background: url(bg-image.png) #573A37;
+    margin: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Alice;
+}
+
+.fundo_receita {
+    background-color: #F0E8C2;
+    border-radius: 2rem;
+    height: auto;
+    width: 100%;
+    max-width: 50rem;
+    align-items: center;
+    margin: 1rem auto;
+    padding: 1rem;
+}
+
+.cupcake {
+    width: 96%;
+    height: auto;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+main {
+    margin: 0;
+    padding: 1rem;
+    line-height: 130%;
+}
+
+h1, h2 {
+    color: #291B1A;
+}
+
+p, li {
+    color: #573A37;
+}
+
+.marca {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.marca p {
+    color: #F0E8C2;
+}
